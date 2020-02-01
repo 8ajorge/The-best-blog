@@ -7,5 +7,8 @@ An exceptional blog created by me :)
 *El flujo de trabajo en Github
 *El verdadero amor por hacer las cosas bien
 *Muchos tips y truco
+*Creado por mi en mi casa
+*Incluye Git y Github
+*Aprendí desde lo basico
 
 Sponsor: **Este readme.md es una practica**.
