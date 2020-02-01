@@ -9,5 +9,6 @@ An exceptional blog created by me :)
 *Muchos tips y truco
 *Creado por mi en mi casa
 *Incluye Git y Github
+*Aprendí desde lo basico
 
 Sponsor: **Este readme.md es una practica**.
