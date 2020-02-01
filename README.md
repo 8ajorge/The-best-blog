@@ -8,5 +8,6 @@ An exceptional blog created by me :)
 *El verdadero amor por hacer las cosas bien
 *Muchos tips y truco
 *Creado por mi en mi casa
+*Incluye Git y Github
 
 Sponsor: **Este readme.md es una practica**.
